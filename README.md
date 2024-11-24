@@ -1,5 +1,5 @@
 <h1> Hi, I’m Jon </h1>
-🌱 I’m currently learning to programing.
+🌱 I’m currently learning to programing. I am in my second year of DAW. I can't wait to start my internship!
 <h1> About my repos</h1>
 All the developments that I code are for learning or for entertainment. Usually, when I finish one I don´t maintain it.
 <!---
